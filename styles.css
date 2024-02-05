@@ -5,7 +5,7 @@
 
 body{
     height: 100vh;
-    background: linear-gradient(#d61c4e,#293463,#512963);
+    background: linear-gradient(#099ee4,#0a34ee,#3006eb);
 }
 
 .box{
@@ -30,7 +30,7 @@ body{
     height: 40px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 17px;
-    border: 1px solid #d61c4e;
+    border: 1px solid #0ca2f8;
     color: #293463;
     padding: 10px;
     position: relative;
@@ -51,7 +51,7 @@ body{
     border-radius: 10px;
     font-size: 17px;
     border: none;
-    background-color: #898aa6;
+    background-color: #099df3;
 }
 
 #tag{
@@ -70,7 +70,7 @@ body{
     justify-content: space-between;
     align-items: center;
     border-radius: 10px;
-    border: 1px solid #898aa6;
+    border: 1px solid #12bcf0;
     cursor: pointer;
     margin: 10px;
 }
@@ -81,7 +81,7 @@ body{
 }
 
 .list button{
-    background-color: #898aa6;
+    background-color: #1074e6;
     color: white;
     height: 100%;
     width: 45px;
